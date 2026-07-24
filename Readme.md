@@ -57,15 +57,22 @@ Learning-Journal/
 
 ## 📚 Daftar Materi Saat Ini
 
-Saat ini, fokus pembelajaran ada di area **Data Science**, dengan detail program:
+Saat ini, fokus pembelajaran meliputi beberapa program dan kelas:
 
-### Belajar Penerapan Data Science dengan Microsoft Fabric
-Program dari Microsoft Elevate Training Center Skill Sprint.
-- **Modul 1: Persiapan Belajar** (Selesai dirangkum)
-- **Modul 2: Mengupas Tuntas Analitik End-to-End dengan Microsoft Fabric** (Selesai dirangkum + Kuis)
-- **Modul 3: Menyelami Dunia Data Science dengan Microsoft Fabric** (Selesai dirangkum)
+### 1. Microsoft Elevate Training Center Skill Sprint
+Program penerapan **Data Science** dengan **Microsoft Fabric**:
+- Modul 1: Persiapan Belajar (Selesai dirangkum)
+- Modul 2: Mengupas Tuntas Analitik End-to-End (Selesai dirangkum + Kuis)
+- Modul 3: Menyelami Dunia Data Science (Selesai dirangkum)
 
-Setiap modul di atas memiliki sebuah file `Summary.md` yang merangkum keseluruhan materi pada bab tersebut.
+### 2. Coding Camp 2026 powered by DBS Foundation
+Ada dua *learning path* yang sedang diambil:
+- **Progressive Full-Stack Developer**
+  - Sedang aktif pada kelas **Belajar Dasar Pemrograman Web** (Telah diselesaikan hingga Modul 3: Pengenalan HTML).
+- **Progressive Gen AI Engineer**
+  - Terdapat beberapa kelas utama seperti dasar Python, dasar AI, ML, dan Prompt Engineering.
+
+Setiap kelas dan modul di atas memiliki dokumen `Readme.md` serta `Summary.md` tersendiri.
 
 ---
 *Dokumentasi ini di-generate berdasarkan skill README documentation pattern.*
