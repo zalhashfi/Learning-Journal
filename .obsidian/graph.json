@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Data-Science/Microsoft Elevate Training Center Skill Sprint/Belajar Penerapan Data Science dengan Microsoft Fabric/1. Persiapan Belajar\"  ",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Data-Science/Microsoft Elevate Training Center Skill Sprint/Belajar Penerapan Data Science dengan Microsoft Fabric/3. Menyelami Dunia Data Science dengan Microsoft Fabric\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.633597647430858,
   "close": true
 }

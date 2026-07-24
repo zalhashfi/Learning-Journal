@@ -31,3 +31,6 @@ Berikut adalah ringkasan dari materi eksplorasi konsep dasar dan komponen utama 
 - **Data Factory:** Membantu generasi kode untuk transformasi data.
 - **Data Warehouse & Power BI:** Memungkinkan pengguna melakukan query atau membuat laporan otomatis hanya dengan menggunakan bahasa alami (Natural Language).
 - *Catatan:* Copilot harus diaktifkan secara manual oleh Administrator melalui Admin Portal (*Tenant settings*).
+
+## 6. [[6. Quiz|Kuis Modul 2]]
+- Seluruh daftar pertanyaan kuis beserta kunci jawaban dan penjelasannya telah diarsipkan pada file [[6. Quiz]].
