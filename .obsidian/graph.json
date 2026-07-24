@@ -5,30 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"Data-Science/Microsoft Elevate Training Center Skill Sprint/Belajar Penerapan Data Science dengan Microsoft Fabric/1. Persiapan Belajar\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Data-Science/Microsoft Elevate Training Center Skill Sprint/Belajar Penerapan Data Science dengan Microsoft Fabric/2. Mengupas Tuntas Analitik End-to-End dengan Microsoft Fabric\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Data-Science/Microsoft Elevate Training Center Skill Sprint/Belajar Penerapan Data Science dengan Microsoft Fabric/3. Menyelami Dunia Data Science dengan Microsoft Fabric\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    }
-  ],
+  "collapse-color-groups": false,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -40,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.633597647430858,
-  "close": true
+  "close": false
 }

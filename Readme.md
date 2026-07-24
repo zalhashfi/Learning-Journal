@@ -35,17 +35,22 @@ Semua keterhubungan file (`[[nama file]]`) akan otomatis terbaca oleh Obsidian.
 
 ## 📂 Struktur Repositori
 
-Repositori ini diatur berdasarkan topik besar, kemudian dipecah menjadi kursus/program spesifik, dan diakhiri dengan modul-modul pembelajaran.
+Repositori ini menggunakan sistem Zettelkasten ringan dengan gabungan "Flat Folders + Topic Dashboards". Semua kelas dikumpulkan di folder `Courses`, sedangkan navigasi topik diatur melalui folder `Dashboards`.
 
 ```text
 Learning-Journal/
 ├── .obsidian/               # Konfigurasi workspace Obsidian
-├── Data-Science/            # Topik Pembelajaran: Data Science
-│   └── Microsoft Elevate Training Center Skill Sprint/
-│       └── Belajar Penerapan Data Science dengan Microsoft Fabric/
-│           ├── 1. Persiapan Belajar/
-│           ├── 2. Mengupas Tuntas Analitik End-to-End dengan Microsoft Fabric/
-│           └── 3. Menyelami Dunia Data Science dengan Microsoft Fabric/
+├── 📚 Courses/              # Semua materi dan kelas berkumpul di sini
+│   ├── DBS Foundation - Progressive Full-Stack Developer/
+│   ├── DBS Foundation - Progressive Gen AI Engineer/
+│   └── Microsoft Elevate - Data Science Fabric/
+│       ├── 1. Persiapan Belajar/
+│       ├── 2. Mengupas Tuntas Analitik End-to-End dengan Microsoft Fabric/
+│       └── 3. Menyelami Dunia Data Science dengan Microsoft Fabric/
+├── 🧭 Dashboards/           # Pintu masuk (Map of Content) ke setiap topik pembelajaran
+│   ├── AI.md
+│   ├── Data Science.md
+│   └── Web Development.md
 ├── .gitignore               # Konfigurasi pengabaian file Git
 └── Readme.md                # Dokumentasi utama (file ini)
 ```

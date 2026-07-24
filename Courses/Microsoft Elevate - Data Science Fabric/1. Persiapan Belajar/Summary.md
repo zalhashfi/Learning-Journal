@@ -1,9 +1,15 @@
+---
+tags:
+  - data-science
+  - microsoft-fabric
+  - study-notes
+---
 # Rangkuman: Persiapan Belajar
 *Modul 1: Belajar Penerapan Data Science dengan Microsoft Fabric*
 
 Berikut adalah ringkasan dari seluruh materi persiapan sebelum memulai kelas penerapan Data Science dengan Microsoft Fabric.
 
-## 1. [[1. Pengenalan Kelas|Pengenalan Kelas]]
+## 1. [[Courses/Microsoft Elevate - Data Science Fabric/1. Persiapan Belajar/1. Pengenalan Kelas|Pengenalan Kelas]]
 Kelas ini bertujuan untuk membekali peserta dengan keterampilan praktis membangun solusi *machine learning* modern secara *end-to-end* di platform *cloud* menggunakan Microsoft Fabric. 
 
 Materi terbagi menjadi **6 Modul Utama**:
@@ -33,6 +39,6 @@ Agar proses belajar lebih optimal, sangat disarankan untuk memiliki:
   - Manfaatkan fitur **Upvote/Downvote** untuk menyeleksi jawaban yang bagus, dan tandai **Approved Answer** jika masalah sudah terselesaikan.
   - Siswa sangat disarankan untuk berkenalan di *thread* Perkenalan Diri.
 
-## 5. [[6. Glosarium|Glosarium]] & [[7. Daftar Referensi|Referensi]]
+## 5. [[Courses/Microsoft Elevate - Data Science Fabric/1. Persiapan Belajar/6. Glosarium|Glosarium]] & [[Courses/Microsoft Elevate - Data Science Fabric/1. Persiapan Belajar/7. Daftar Referensi|Referensi]]
 - Kelas ini mengacu pada dokumentasi resmi Microsoft: *"Implement a data science and machine learning solution for AI in Microsoft Fabric"*.
 - Jika ada kebingungan terhadap istilah teknis (seperti *Delta Table*, *Lakehouse*, *EDA*, *MLflow*, dll), pastikan untuk selalu merujuk pada file **Glosarium** yang telah disediakan.

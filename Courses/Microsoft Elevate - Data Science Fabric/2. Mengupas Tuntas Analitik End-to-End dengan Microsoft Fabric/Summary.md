@@ -1,3 +1,9 @@
+---
+tags:
+  - data-science
+  - microsoft-fabric
+  - data-analytics
+---
 # Rangkuman: Mengupas Tuntas Analitik End-to-End dengan Microsoft Fabric
 *Modul 2: Belajar Penerapan Data Science dengan Microsoft Fabric*
 
