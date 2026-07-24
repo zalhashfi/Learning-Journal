@@ -1,0 +1,9 @@
+# Konfigurasi workspace Obsidian (selalu berubah setiap kali aplikasi dibuka)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# File sistem (Windows/Mac)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
