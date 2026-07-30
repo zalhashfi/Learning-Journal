@@ -19,9 +19,9 @@ Dalam [[2. Requirement Tools.md]], terdapat dua peralatan utama yang wajib disia
 - **Web Browser**: Digunakan untuk melihat hasil kode yang telah dibuat. Browser modern seperti Google Chrome dan Mozilla Firefox sangat disarankan karena dilengkapi dengan fitur **DevTools** untuk memudahkan proses inspeksi kode dan *debugging*.
 
 ## 3. Mekanisme Belajar & Evaluasi
-Menurut [[3. Mekanisme Belajar.md]], materi kelas mayoritas disediakan dalam bentuk teks (karena terbukti paling efektif untuk belajar coding) dan didukung dengan video. Evaluasi pembelajaran terdiri dari ujian (kuis) dan *submission* (proyek akhir berupa hasil *coding* murni Anda sendiri). Segala bentuk plagiasi dilarang keras.
+Menurut [[Courses/Coding Camp 2026 powered by DBS Foundation/DBS Foundation - Progressive Full-Stack Developer/Belajar Dasar Pemrograman Web/1. Persiapan Belajar/3. Mekanisme Belajar]], materi kelas mayoritas disediakan dalam bentuk teks (karena terbukti paling efektif untuk belajar coding) dan didukung dengan video. Evaluasi pembelajaran terdiri dari ujian (kuis) dan *submission* (proyek akhir berupa hasil *coding* murni Anda sendiri). Segala bentuk plagiasi dilarang keras.
 
-Jika Anda menemui kendala terkait materi, Anda sangat disarankan untuk aktif di [[4. Forum Diskusi.md]]. Pastikan untuk menggunakan fitur pencarian sebelum bertanya agar tidak mengulang pertanyaan yang sudah pernah dijawab.
+Jika Anda menemui kendala terkait materi, Anda sangat disarankan untuk aktif di [[Courses/Coding Camp 2026 powered by DBS Foundation/DBS Foundation - Progressive Full-Stack Developer/Belajar Dasar Pemrograman Web/1. Persiapan Belajar/4. Forum Diskusi]]. Pastikan untuk menggunakan fitur pencarian sebelum bertanya agar tidak mengulang pertanyaan yang sudah pernah dijawab.
 
 ## 4. Gambaran Materi yang akan Dipelajari
 Berdasarkan [[5. Materi yang akan Dipelajari.md]], kelas ini dirancang ke dalam 6 modul utama:
