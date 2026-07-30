@@ -11,7 +11,7 @@ tags:
 Berikut adalah ringkasan dari materi persiapan sebelum memulai kelas Belajar Dasar Pemrograman Web.
 
 ## 1. Pengenalan Kelas
-Pada materi [[1. Pengenalan Kelas.md]], dijelaskan bahwa kelas ini merupakan pijakan awal untuk menjadi Front End Web Developer. Kelas ini akan mengajarkan dasar bagaimana aplikasi berbasis web dirancang dan dibangun melalui kode.
+Pada materi [[Courses/Coding Camp 2026 powered by DBS Foundation/DBS Foundation - Progressive Full-Stack Developer/Belajar Dasar Pemrograman Web/1. Persiapan Belajar/1. Pengenalan Kelas]], dijelaskan bahwa kelas ini merupakan pijakan awal untuk menjadi Front End Web Developer. Kelas ini akan mengajarkan dasar bagaimana aplikasi berbasis web dirancang dan dibangun melalui kode.
 
 ## 2. Peralatan Kelas (Requirement Tools)
 Dalam [[2. Requirement Tools.md]], terdapat dua peralatan utama yang wajib disiapkan:
@@ -32,4 +32,4 @@ Berdasarkan [[5. Materi yang akan Dipelajari.md]], kelas ini dirancang ke dalam 
 5. **Pendalaman CSS**: Membahas *styling* tingkat lanjut seperti warna, *box model*, ukuran, dll.
 6. **Layout Responsif dengan Flexbox**: Menyusun struktur dan posisi halaman web agar rapi menggunakan *Flexbox*.
 
-Selain itu, seluruh istilah teknis baru (seperti *DNS, Client, Server, Plain Text*, dll) dapat Anda cek kapan saja pada halaman [[6. Glosarium.md]], sementara sumber literatur eksternal dicatat di [[7. Daftar Referensi.md]].
+Selain itu, seluruh istilah teknis baru (seperti *DNS, Client, Server, Plain Text*, dll) dapat Anda cek kapan saja pada halaman [[Courses/Coding Camp 2026 powered by DBS Foundation/DBS Foundation - Progressive Full-Stack Developer/Belajar Dasar Pemrograman Web/1. Persiapan Belajar/6. Glosarium]], sementara sumber literatur eksternal dicatat di [[Courses/Coding Camp 2026 powered by DBS Foundation/DBS Foundation - Progressive Full-Stack Developer/Belajar Dasar Pemrograman Web/1. Persiapan Belajar/7. Daftar Referensi]].
