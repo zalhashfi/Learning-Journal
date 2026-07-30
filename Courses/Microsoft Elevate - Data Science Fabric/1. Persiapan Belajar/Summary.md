@@ -25,11 +25,11 @@ Agar proses belajar lebih optimal, sangat disarankan untuk memiliki:
 - **Pengetahuan Dasar Pemrograman** & kemampuan membaca dokumentasi teknis berbahasa Inggris.
 - **Pemahaman Konsep Cloud** dan kolaborasi data modern.
 
-## 3. [[3. Prasyarat Tools|Prasyarat Tools]]
+## 3. [[Courses/Microsoft Elevate - Data Science Fabric/1. Persiapan Belajar/3. Prasyarat Tools|Prasyarat Tools]]
 - **Komputer/Laptop:** OS Windows, Linux, atau macOS. Terhubung dengan internet. (Spesifikasi minimal: RAM 2GB, prosesor Intel Dual Core. Disarankan: RAM 4GB, Resolusi layar Full HD).
 - **Web Browser:** Bebas menggunakan Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, dll.
 
-## 4. [[4. Mekanisme Belajar|Mekanisme Belajar]] & [[5. Forum Diskusi|Evaluasi dan Forum Diskusi]]
+## 4. [[Courses/Microsoft Elevate - Data Science Fabric/1. Persiapan Belajar/4. Mekanisme Belajar|Mekanisme Belajar]] & [[Courses/Microsoft Elevate - Data Science Fabric/1. Persiapan Belajar/5. Forum Diskusi|Evaluasi dan Forum Diskusi]]
 - **Materi Utama:** Diberikan dalam bentuk teks/bacaan elektronik agar lebih mudah dipraktikkan.
 - **Evaluasi:** Pemahaman materi akan diuji melalui Kuis dan Ujian Akhir pada setiap bagiannya.
 - Disediakan forum diskusi untuk saling membantu, bertanya, dan berjejaring dengan siswa lain maupun instruktur.
